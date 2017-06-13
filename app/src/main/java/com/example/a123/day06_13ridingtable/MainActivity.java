@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
         //设置图片集合
         banner.setImages(list);
         banner.start();
+        //
 
     }
 }
