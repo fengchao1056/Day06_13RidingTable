@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         list.add(url5);
         list.add(url6);
         list.add(url7);
-        //list.add(url8);
+        list.add(url8);
        // list.add(url9);
 
     }
